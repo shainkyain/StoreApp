@@ -1,0 +1,34 @@
+[
+  {
+    "Id": 1,
+    "Name": "John Doe",
+    "Role": "Admin",
+    "Password": "password123",
+    "Mobile": "1234567890",
+    "Email": "john.doe@example.com"
+  },
+  {
+    "Id": 2,
+    "Name": "Jane Smith",
+    "Role": "User",
+    "Password": "password456",
+    "Mobile": "0987654321",
+    "Email": "jane.smith@example.com"
+  },
+  {
+    "Id": 3,
+    "Name": "hello",
+    "Role": "1",
+    "Password": "sss",
+    "Mobile": "123",
+    "Email": "aa@gmail.com"
+  },
+  {
+    "Id": 4,
+    "Name": "hello",
+    "Role": "22",
+    "Password": "asjdnjsdan",
+    "Mobile": "kasni@gmail.com",
+    "Email": "ii@gmail.com"
+  }
+]
